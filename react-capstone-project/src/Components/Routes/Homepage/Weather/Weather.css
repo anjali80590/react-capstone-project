@@ -1,0 +1,64 @@
+.weather-con{
+    width: 790px;
+    margin-top: 20px;
+    background-color: #101744;
+    border-radius: 20px;
+
+}
+.weatherdt{
+    background-color: #FF4ADE;
+    color: white;
+    font-size: 30px;
+    padding: 10px 160px;
+    
+}
+.weathert{
+    margin-left: 80px;
+}
+.wbox{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    /* margin-top: 10px; */
+    height: 150px;
+    padding: 0px 60px;
+    background-color: #101744;
+}
+.wtemperature{
+    font-size:46px;
+    /* font-weight: bold; */
+
+}
+.wcondition{
+    font-size: 25px;
+    position: relative;
+    top: 80px;
+    right: 80px;
+  
+}
+.wicon-p{
+    margin-left: 50px;
+    width: 90px;
+  
+}
+
+.wicon{
+    width: 25px;
+    margin: -24px 15px;
+}
+.wicon-w{
+    margin-bottom: 20px;
+}
+.wright{
+
+}
+
+.wpos{
+    margin-left: 55px;
+}
+.line{
+    width: 2px;
+    height: 110px;
+    background-color: white;
+    margin-right: 30px;
+}

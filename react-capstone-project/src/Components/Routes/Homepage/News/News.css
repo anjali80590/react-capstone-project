@@ -1,0 +1,35 @@
+.news-con {
+  border-radius: 20px;
+  background-color: white;
+}
+.newimg {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  background-color: white;
+}
+.newsbg {
+  position: absolute;
+  z-index: 1;
+  bottom: 290px;
+  width: 370px;
+  background-color: rgba(0, 0, 0, 0.323);
+  height: 100px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.newheading {
+  margin-bottom: 10px;
+  width: 350px;
+}
+.aboutnews {
+  padding-top: 10px;
+  background-color: white;
+  color: black;
+  height: 170px;
+  overflow-y: scroll;
+}
+.wicon-p {
+  width: 15px;
+}
